@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ROHighWizard.png</file>
+    </qresource>
+</RCC>
